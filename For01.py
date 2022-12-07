@@ -6,4 +6,6 @@ def main(n):
     Returns:
         list: return  answer
     """
-    return
+    n=range(5)
+    return list(n)
+print(main(5))
